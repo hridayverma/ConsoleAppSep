@@ -54,6 +54,9 @@ namespace ConsoleAppSep.Day3
             methodCalling.Message(surname: "Mittal", fname: "Vishal");
             methodCalling.Message(surname: "Mittal", fname: "Vishal",salary:50000);
 
+            
+
+
 
 
 

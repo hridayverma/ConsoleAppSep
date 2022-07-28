@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleAppSep.Day3.MainApp</StartupObject>
+    <StartupObject>ConsoleAppSep.Day4.Day4Main</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -50,11 +50,18 @@
     <Compile Include="Day3\MainApp.cs" />
     <Compile Include="Day3\MethodCalling.cs" />
     <Compile Include="Day3\Student.cs" />
+    <Compile Include="Day4\Day4Main.cs" />
+    <Compile Include="Day4\Employee.cs" />
+    <Compile Include="Day4\OverloadTest.cs" />
+    <Compile Include="Day4\Point.cs" />
+    <Compile Include="Day4\Product.cs" />
+    <Compile Include="Day4\StaticClassDemo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

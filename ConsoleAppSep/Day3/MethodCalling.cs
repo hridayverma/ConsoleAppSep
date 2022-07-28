@@ -42,6 +42,6 @@ namespace ConsoleAppSep.Day3
             Console.WriteLine($"Salary:{salary}");
         }
 
-
+       
     }
 }
