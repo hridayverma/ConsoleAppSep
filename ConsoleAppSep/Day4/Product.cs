@@ -23,13 +23,11 @@ namespace ConsoleAppSep.Day4
         public void SetProductId(int _ProductId) {
             this._ProductId = _ProductId;
         }
-
         //getter
         public int GetProductId()
         {
             return this._ProductId;
         }
-
         static void Main(string[] args)
         {
             Product p1 = new Product();
