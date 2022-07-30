@@ -79,6 +79,13 @@ namespace ConsoleAppSep.Day5
             employee.DisplayEmployee();
 
 
+            string str = "this is string text";
+
+            Console.WriteLine(str.ConvertToUpperCase(str));
+            
+
+
+
 
 
 
