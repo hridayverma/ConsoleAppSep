@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleAppSep.Day6.ArrayDemo3</StartupObject>
+    <StartupObject>ConsoleAppSep.ProjectMain</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -65,7 +65,12 @@
     <Compile Include="Day6\ArrayDemo2.cs" />
     <Compile Include="Day6\ArrayDemo3.cs" />
     <Compile Include="Day6\JaggedArray.cs" />
+    <Compile Include="Day7\Product.cs" />
+    <Compile Include="Day7\ProductMain.cs" />
+    <Compile Include="Day7\StringBuilderDemo.cs" />
+    <Compile Include="Day7\StringDemo1.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="ProjectMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
