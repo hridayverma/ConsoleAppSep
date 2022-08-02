@@ -12,7 +12,11 @@ namespace ConsoleAppSep
         {
             // Day7.ProductMain.Main();
             // Day7.StringDemo1.Main();
-            Day7.StringBuilderDemo.Main();
+            //Day7.StringBuilderDemo.Main();
+            //Day8.StringDemo.Main();
+            //Day8.IndexerMain.Main();
+            Day8.DateTimeDemo.Main();
+
         }
     }
 }
