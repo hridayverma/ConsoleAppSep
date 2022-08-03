@@ -32,18 +32,15 @@ namespace ConsoleAppSep.Day8
             Console.WriteLine("ShortDate:" + date.ToShortTimeString());
             //date.ToString()
             /*
-             d->day
-             M->month
-             y-->year
-             h,H->hour
-             m->minute
-             s->second
-             t->am/pm
-             K->timezone
+             d->day               M->month
+             y-->year             h,H->hour
+             m->minute            s->second
+             t->am/pm             K->timezone
              f->decimal fraction of second(millisecond)
              */
             Console.WriteLine(date.ToString("MM-dd-yy,H:m:s t"));
             Console.WriteLine(date.ToString("dd-MM-yy,H:m:ss tt"));//<10  05
+            Console.WriteLine(date.ToString("dd-MM-yy,H:m:ss.fffffff tt"));//<10  05
             Console.WriteLine(date.ToString("MMMM,yyyy "));
             Console.WriteLine(date.ToString("dddd,dd-MM-yyyy"));
             //reading date vaule from console

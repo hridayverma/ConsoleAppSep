@@ -15,7 +15,11 @@ namespace ConsoleAppSep
             //Day7.StringBuilderDemo.Main();
             //Day8.StringDemo.Main();
             //Day8.IndexerMain.Main();
-            Day8.DateTimeDemo.Main();
+            //Day8.DateTimeDemo.Main();
+            //Inheritance.InheritDemo1.Main();
+            //Inheritance.InheritDemo2.Main();
+            //Inheritance.InheritDemo3.Main();
+            Inheritance.InheritDemo4.Main();
 
         }
     }
