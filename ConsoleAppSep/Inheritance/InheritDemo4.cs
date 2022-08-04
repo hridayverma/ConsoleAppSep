@@ -54,9 +54,28 @@ namespace ConsoleAppSep.Inheritance
     internal class InheritDemo4
     {
         public static void Main() {
-            Superviser sb = new Superviser(_EmpCode: 101, _Did: 10, _Name : "Swapnil");
+            //Superviser sb = new Superviser(_EmpCode: 101, _Did: 10, _Name : "Swapnil");
+            //Console.WriteLine(sb);
+           /*
+            int row, col;
+            Console.WriteLine("Enter row size:");
+            row = Int32.Parse(Console.ReadLine());
+            int[][] jagged = new int[row][];
 
-            Console.WriteLine(sb);
+            for (int i = 0; i < row; i++)
+            {
+                Console.WriteLine($"Enter array {i+1} size:");
+                col = Int32.Parse(Console.ReadLine());
+                jagged[i] = new int[col];
+            }
+           */
+
+
+
+
+            
+
+
         }
     }
 }

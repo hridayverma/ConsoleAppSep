@@ -19,7 +19,10 @@ namespace ConsoleAppSep
             //Inheritance.InheritDemo1.Main();
             //Inheritance.InheritDemo2.Main();
             //Inheritance.InheritDemo3.Main();
-            Inheritance.InheritDemo4.Main();
+            //Inheritance.InheritDemo4.Main();
+            //Inheritance.AbstractDemo.Main();
+            //Inheritance.InterfaceDemo.Main();
+            DelegateEvents.DelegateDemo1.Main();
 
         }
     }

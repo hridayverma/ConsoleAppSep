@@ -8,6 +8,7 @@ namespace ConsoleAppSep.Inheritance
 {
     class MyBase2
     {
+        const int MAX = 100;
         /*
         public void Display()
         {
@@ -49,11 +50,20 @@ namespace ConsoleAppSep.Inheritance
         }*/
 
         //Method overriding
-        public override void Display()
+      sealed  public override void Display()
         {
             Console.WriteLine("Display from Derive-4");
         }
     }
+
+    class Derive8 : Derive4 {
+       /* public override void Display()
+        {
+            Console.WriteLine("Display from Derive-8");
+        }*/
+    }
+
+
     //Factory Method Implementation 
     enum ChildType
     {
