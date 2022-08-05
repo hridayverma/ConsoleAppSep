@@ -11,6 +11,7 @@ namespace ConsoleAppSep.DelegateEvents
     class Calc1 {
         public void Addition(int a, int b) {
             Console.WriteLine($"Sum is:{a+b}");
+            //return a + b;
         }
         public static void Subtract(int a, int b)
         {

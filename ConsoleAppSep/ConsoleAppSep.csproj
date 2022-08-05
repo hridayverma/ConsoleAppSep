@@ -73,6 +73,9 @@
     <Compile Include="Day8\IndexerMain.cs" />
     <Compile Include="Day8\StringDemo.cs" />
     <Compile Include="DelegateEvents\DelegateDemo1.cs" />
+    <Compile Include="DelegateEvents\DelegateDemo2.cs" />
+    <Compile Include="DelegateEvents\DelegateDemo3.cs" />
+    <Compile Include="DelegateEvents\SingletonDemo.cs" />
     <Compile Include="Inheritance\AbstractDemo.cs" />
     <Compile Include="Inheritance\InheritDemo1.cs" />
     <Compile Include="Inheritance\InheritDemo2.cs" />
