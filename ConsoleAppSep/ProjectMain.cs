@@ -25,7 +25,10 @@ namespace ConsoleAppSep
             // DelegateEvents.DelegateDemo1.Main();
             //DelegateEvents.SingletonDemo.Main();
             //DelegateEvents.DelegateDemo2.Main();
-            DelegateEvents.DelegateDemo3.Main();
+            // DelegateEvents.DelegateDemo3.Main();
+            // DelegateEvents.EventDemo.Main();
+            //DelegateEvents.Subscriber.Main();
+            DelegateEvents.NameSpaceDemo.Main();
 
         }
     }
