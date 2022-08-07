@@ -84,6 +84,8 @@
     <Compile Include="Inheritance\InheritDemo3.cs" />
     <Compile Include="Inheritance\InheritDemo4.cs" />
     <Compile Include="Inheritance\InterfaceDemo.cs" />
+    <Compile Include="MultiThreading\ThreadDemo1.cs" />
+    <Compile Include="MultiThreading\ThreadDemo2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="ProjectMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
