@@ -30,7 +30,13 @@ namespace ConsoleAppSep
             //DelegateEvents.Subscriber.Main();
             // DelegateEvents.NameSpaceDemo.Main();
             // MultiThreading.ThreadDemo1.Main();
-             MultiThreading.ThreadDemo2.Main();
+            // MultiThreading.ThreadDemo2.Main();
+            // MultiThreading.ThreadDemo3.Main();
+            //MultiThreading.TaskUsingForLoop.Main();
+            //MultiThreading.TaskUsingParallelForLoop.Main();
+            //MultiThreading.ClockDemo.Main();
+            CollectionsDemo.ArrayListDemo1.Main();
+
 
         }
     }
