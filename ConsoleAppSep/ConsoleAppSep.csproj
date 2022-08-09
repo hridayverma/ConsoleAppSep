@@ -46,7 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CollectionsDemo\ArrayListDemo2.cs" />
     <Compile Include="CollectionsDemo\ArrayListDemo1.cs" />
+    <Compile Include="CollectionsDemo\GenericDemo1.cs" />
+    <Compile Include="CollectionsDemo\GenericDemo2.cs" />
+    <Compile Include="CollectionsDemo\HashTableDemo.cs" />
     <Compile Include="Day1\Second.cs" />
     <Compile Include="Day3\MainApp.cs" />
     <Compile Include="Day3\MethodCalling.cs" />

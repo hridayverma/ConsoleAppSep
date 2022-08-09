@@ -35,7 +35,12 @@ namespace ConsoleAppSep
             //MultiThreading.TaskUsingForLoop.Main();
             //MultiThreading.TaskUsingParallelForLoop.Main();
             //MultiThreading.ClockDemo.Main();
-            CollectionsDemo.ArrayListDemo1.Main();
+            // CollectionsDemo.ArrayListDemo1.Main();
+            // CollectionsDemo.ArrayListDemo2.Main();
+            // CollectionsDemo.HashTableDemo.Main();
+            //CollectionsDemo.GenericDemo1.Main();
+            CollectionsDemo.GenericDemo2.Main();
+
 
 
         }

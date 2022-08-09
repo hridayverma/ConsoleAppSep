@@ -31,7 +31,7 @@ namespace ConsoleAppSep.CollectionsDemo
             Console.WriteLine("Updated Capacity:" + list.Capacity);//12
                                                                    //default,0=>4=>8=>16=>32....
                                                                    //initial cap 3, 3=>6=>12=>24....
-            //list.
+            
 
         }
     }
