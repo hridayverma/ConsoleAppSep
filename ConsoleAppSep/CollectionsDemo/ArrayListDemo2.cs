@@ -31,6 +31,7 @@ namespace ConsoleAppSep.CollectionsDemo
             }
             //list.Add()
            // int num =(int) list[2];//unboxing
+           
         }
     }
 }

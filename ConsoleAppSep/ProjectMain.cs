@@ -39,7 +39,9 @@ namespace ConsoleAppSep
             // CollectionsDemo.ArrayListDemo2.Main();
             // CollectionsDemo.HashTableDemo.Main();
             //CollectionsDemo.GenericDemo1.Main();
-            CollectionsDemo.GenericDemo2.Main();
+            //CollectionsDemo.GenericDemo2.Main();
+            //LinqExamples.LinqDemo1.Main();
+            LinqExamples.LinqDemo2.Main();
 
 
 

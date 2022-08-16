@@ -89,6 +89,8 @@
     <Compile Include="Inheritance\InheritDemo3.cs" />
     <Compile Include="Inheritance\InheritDemo4.cs" />
     <Compile Include="Inheritance\InterfaceDemo.cs" />
+    <Compile Include="LinqExamples\LinqDemo1.cs" />
+    <Compile Include="LinqExamples\LinqDemo2.cs" />
     <Compile Include="MultiThreading\ClockDemo.cs" />
     <Compile Include="MultiThreading\TaskUsingForLoop.cs" />
     <Compile Include="MultiThreading\TaskUsingParallelForLoop.cs" />
